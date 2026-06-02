@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Allow: /
+
+Sitemap: https://lets-drive.web-prj.ru/sitemap.xml
